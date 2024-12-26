@@ -1,1 +1,1 @@
-# Compleate Java task 2
+# Сompleted Java task 2
